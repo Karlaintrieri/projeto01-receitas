@@ -1,0 +1,96 @@
+.pagina-detalhes {
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    padding: 50px 8%;
+}
+
+.detalhes-receita {
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+.detalhes-receita h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.detalhes-receita > img {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    height: 350px;
+    object-fit: cover;
+    margin: 0 auto 35px;
+    border-radius: 12px;
+}
+
+.informacoes {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    margin-bottom: 35px;
+}
+
+.informacoes p {
+    background-color: #f4f4f4;
+    padding: 15px;
+    border-radius: 8px;
+    margin: 0;
+}
+
+.detalhes-receita section {
+    margin-top: 30px;
+}
+
+.detalhes-receita h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
+.detalhes-receita ul,
+.detalhes-receita ol {
+    padding-left: 25px;
+}
+
+.detalhes-receita li {
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+.ingredientes {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+.preparo {
+    border-top: 1px solid #ddd;
+    padding-top: 20px;
+}
+
+@media (max-width: 700px) {
+
+    .pagina-detalhes {
+        padding: 25px 15px;
+    }
+
+    .detalhes-receita {
+        padding: 25px;
+    }
+
+    .detalhes-receita h1 {
+        font-size: 28px;
+    }
+
+    .informacoes {
+        grid-template-columns: 1fr;
+    }
+
+    .detalhes-receita > img {
+        height: 250px;
+    }
+}

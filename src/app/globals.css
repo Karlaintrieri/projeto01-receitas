@@ -187,3 +187,25 @@
   margin: 8px 0;
   font-family: Georgia, serif;
 }
+
+.container-filmes{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  width: 85vw;
+  margin: auto;
+}
+
+.wrap-filme{
+  border-radius: 25px;
+  padding: 10px;
+  background-color: cornsilk;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.wrap-filme img{
+  height: auto;
+  width: 300px;
+}

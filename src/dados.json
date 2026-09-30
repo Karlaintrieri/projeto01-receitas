@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "titulo": "Interestelar",
+      "slug": "interestelar",
+      "ano": 2014,
+      "genero": "Ficção científica",
+      "sinopse": "Uma equipe de astronautas atravessa um buraco de minhoca em busca de um novo lar para a humanidade.",
+      "imagem": "https://image.tmdb.org/t/p/w500/rAiYTfKGqDCRIIqo664sY9XZIvQ.jpg"
+    },
+    {
+      "id": 2,
+      "titulo": "A Origem",
+      "slug": "a-origem",
+      "ano": 2010,
+      "genero": "Ficção científica",
+      "sinopse": "Um especialista em invadir sonhos recebe a missão de plantar uma ideia na mente de um herdeiro.",
+      "imagem": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
+    },
+    {
+      "id": 3,
+      "titulo": "Matrix",
+      "slug": "matrix",
+      "ano": 1999,
+      "genero": "Ficção científica",
+      "sinopse": "Um programador descobre que sua realidade é uma simulação e se une à resistência contra as máquinas.",
+      "imagem": "https://image.tmdb.org/t/p/w500/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+    },
+    {
+      "id": 4,
+      "titulo": "Batman: O Cavaleiro das Trevas",
+      "slug": "batman-o-cavaleiro-das-trevas",
+      "ano": 2008,
+      "genero": "Ação",
+      "sinopse": "Batman enfrenta o Coringa, que espalha o caos por Gotham e coloca seus princípios à prova.",
+      "imagem": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+    },
+    {
+      "id": 5,
+      "titulo": "O Exterminador do Futuro 2: O Julgamento Final",
+      "slug": "o-exterminador-do-futuro-2-o-julgamento-final",
+      "ano": 1991,
+      "genero": "Ação",
+      "sinopse": "Um ciborgue é enviado ao passado para proteger John Connor de uma máquina mais avançada.",
+      "imagem": "https://image.tmdb.org/t/p/w500/weVXMD5QBGeQil4HEATZqAkXeEc.jpg"
+    }
+  ]

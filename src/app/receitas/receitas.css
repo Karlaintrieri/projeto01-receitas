@@ -1,0 +1,17 @@
+.pagina-receitas {
+    min-height: 100vh;
+    padding: 50px 8%;
+    background-color: #f4f4f4;
+}
+
+.pagina-receitas h1 {
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 36px;
+}
+
+.lista-receitas {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 25px;
+}
